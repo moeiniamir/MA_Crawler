@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+python-slugify = "==4.0.1"
+text-unidecode = "==1.3"
+tqdm = "==4.56.0"
+typish = "==1.9.1"
+urllib3 = "==1.26.3"
+networkx = "*"
+
+[requires]
+python_version = "3.8"
